@@ -1,6 +1,6 @@
 # Laboratorio: Introducción a Bison
 
-**Nombre:** ___________________________
+**Nombre:** Belén Ricciardi
 
 ## Verificación y calificación
 
