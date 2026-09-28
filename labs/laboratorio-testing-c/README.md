@@ -381,11 +381,11 @@ _(nombre de la función con el segundo bug)_
 
 ### Checklist
 
-- [ ] Ambos bugs corregidos en `src/carrito.c`
-- [ ] Tests en `tests/test_unitarios.c` y `tests/test_integracion.c` completos y pasando
-- [ ] Salidas guardadas en `salidas/`
-- [ ] Respuestas y claves completadas en este archivo
-- [ ] `make test` pasa localmente
+- [X] Ambos bugs corregidos en `src/carrito.c`
+- [X] Tests en `tests/test_unitarios.c` y `tests/test_integracion.c` completos y pasando
+- [X] Salidas guardadas en `salidas/`
+- [X] Respuestas y claves completadas en este archivo
+- [X] `make test` pasa localmente
 - [ ] Todo pusheado a `main`
 
 ### Verificación local
